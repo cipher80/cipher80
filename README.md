@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Tiwari</h1>
 <h3 align="center">A passionate web-developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher80&label=Profile%20views&color=0e75b6&style=flat" alt="cipher80" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cipher80" alt="cipher80" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cipher80&label=Profile%20views&color=0e75b6&style=flat&count_offset=10" alt="cipher80" /> </p>
 
 - 🔭 I’m currently working on  [www.schedassist.com](https://www.schedassist.com/), [www.metagamefantasy.co](https://metagamefantasy.co/)    And  [www.gas-o-line.com](https://stage.gas-o-line.com/) 
 
