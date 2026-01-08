@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cipher80](https://github.com/cipher80)
 
-- 💬 Ask me about **react, sequelize, typescript, javascript,OOPs, SOLID principle , html ,Css and  node**
+- 💬 Ask me about **node,express,nest, sequelize, typescript, javascript,OOPs, SOLID principle , html ,Css and  node**
 
 - 📫 How to reach me **sandeeptiwari.jim.mca.2021@gmail.com**
 
