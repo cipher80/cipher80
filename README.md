@@ -6,7 +6,7 @@
     <a href="mailto:cipher.t89@gmail.com"><img src="https://img.shields.io/badge/Email-cipher.t89%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://linkedin.com/in/sandeep-tiwari-3b7868261"><img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Tiwari-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <img src="https://img.shields.io/badge/Location-Noida%2C%20India-blue?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    <img src="https://komarev.com/ghpvc/?username=cipher80&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=cipher80&label=Profile%20Views&color=0e75b6&style=flat-square&base=2500" alt="Profile Views" />
   </p>
 </div>
 
