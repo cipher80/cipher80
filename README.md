@@ -50,5 +50,5 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cipher80&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/cipher80/cipher80/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
