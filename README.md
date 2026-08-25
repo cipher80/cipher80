@@ -50,6 +50,5 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cipher80&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher80&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cipher80&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
