@@ -46,7 +46,6 @@
 
 ---
 
-### 📊 GitHub Activity
 
 ### 📊 GitHub Activity
 
