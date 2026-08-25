@@ -48,7 +48,9 @@
 
 ### 📊 GitHub Activity
 
+### 📊 GitHub Activity
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cipher80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sandeep's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cipher80&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=cipher80&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cipher80&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
 </div>
